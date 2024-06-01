@@ -1,7 +1,7 @@
 class Base: 
     def __init__(self): 
         self.a = "GeeksforGeeks"
-        self.__c = "GeeksforGeeks"
+        self.__c = "GeeksforGeeks" ## hell
     def showData(self):
         print(self.__c)    
 
